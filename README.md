@@ -1,9 +1,7 @@
 # Qbik
 An unfinished (rc1 state) Gameboy Advance (boulder dash like) game.
 
-![Game main menu](https://github.com/Szoradi/qbik/blob/master/graphics/mainmenu.gif)
-
-![Gameplay](https://github.com/Szoradi/qbik/blob/master/screenshot.png)
+![Game main menu](https://github.com/Szoradi/qbik/blob/master/graphics/mainmenu.gif) ![Gameplay](https://github.com/Szoradi/qbik/blob/master/screenshot.png)
 
 The development was abandoned in 2000 after the publisher suddenly dropped the game one month before the deadline.
 
