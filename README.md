@@ -13,4 +13,5 @@ Compiled gba image: [here](https://github.com/Szoradi/qbik/blob/master/BoulderDa
 * 3d graphics:        Tamás Polgár
 * Game design:        Tamás Polgár
 * Pixel graphics:     Arnold Csisztai
+* Level design:       Terstyánszki Mátyás
 * Music:              Dávid Halmi (Nagz)
