@@ -5,6 +5,9 @@ An unfinished (rc1 state) Gameboy Advance (boulder dash like) game.
 
 The development was abandoned in 2000 after the publisher suddenly dropped the game one month before the deadline.
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 # Credits:
 * Programming:        Balázs Szórádi
 * Level editor code:  Tamás Polgár
