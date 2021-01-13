@@ -1,5 +1,9 @@
 # Qbik
-An unfinished Gameboy Advance (boulder dash clone) game.
+An unfinished (rc1 state) Gameboy Advance (boulder dash like) game.
+
+![Game main menu](https://github.com/Szoradi/qbik/blob/master/graphics/mainmenu.gif)
+
+The development was abandoned in 2000 after the publisher suddenly dropped the game one month before the deadline.
 
 # Credits:
 * Programming:        Balázs Szórádi
@@ -8,5 +12,3 @@ An unfinished Gameboy Advance (boulder dash clone) game.
 * Game design:        Tamás Polgár
 * Pixel graphics:     Arnold Csisztai
 * Music:              Dávid Halmi (Nagz)
-
-![Game main menu](https://github.com/Szoradi/qbik/blob/master/graphics/mainmenu.gif)
