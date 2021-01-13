@@ -1,0 +1,1420 @@
+Archive member included       because of file (symbol)
+
+D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o (SoDebugAssert)
+D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o (SoDMATransfer)
+D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+                              D:/GBA_development/lib//libSocrates.a(SoDebug.o) (SoBackgroundManagerSetMosaicEnable)
+D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o (SoMode4RendererEnable)
+D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o (SoIntManagerSetInterruptHandler)
+D:/GBA_development/lib//libSocrates.a(SoMath.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdMan.o (SoMathRand)
+D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o (SoPaletteSetBlack)
+D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o (SoKeysUpdate)
+D:/GBA_development/lib//libSocrates.a(SoTables.o)
+                              D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o) (g_Fade)
+D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+                              D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o) (SoMode4PolygonRasterizerSetBuffer)
+D:/GBA_development/lib//libSocrates.a(SoImage.o)
+                              D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o) (SoImageGetWidth)
+D:/GBA_development/lib//libSocrates.a(SoFont.o)
+                              D:/GBA_development/lib//libSocrates.a(SoDebug.o) (SoFontGetDefaultFontImage)
+D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o (SoSpriteManagerDisableSprites)
+D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+                              D:/GBA_development/lib//libSocrates.a(SoDebug.o) (SoWindowSetWindow0Enable)
+D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+                              D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o) (SO_REG_DISP_MOSAIC_RW)
+D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+                              D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o) (SoSpriteDisable)
+D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+                              D:/GBA_development/lib//libSocrates.a(SoSprite.o) (SoSpriteAnimationGetFrameWidth)
+D:/GBA_development/lib//libSocrates.a(SoMode4RendererClear.o)
+                              D:/GBA_development/lib//libSocrates.a(SoDebug.o) (SoMode4RendererClear)
+D:/GBA_development/lib//libSocrates.a(SoIntManagerIntHandler.o)
+                              D:/GBA_development/lib//libSocrates.a(SoIntManager.o) (SoIntManagerInterruptHandler)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_udivsi3.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o (__udivsi3)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_divsi3.o)
+                              D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o) (__divsi3)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_umodsi3.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o (__umodsi3)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_modsi3.o)
+                              D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o) (__modsi3)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_dvmd_tls.o)
+                              /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_udivsi3.o) (__div0)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_call_via_rX.o)
+                              D:/GBA_development/BoulderDash/lib//krawall.lib (_call_via_r1)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+                              D:/GBA_development/BoulderDash/lib//krawall.lib (bzero)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+                              D:/GBA_development/BoulderDash/lib//krawall.lib (memcpy)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o (strlen)
+/cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+                              D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o (strncmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+Blend               0x20              D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+s_SoMode4RendererBackBuffer
+                    0x4               D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+BdBackground        0xb0              D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+_private_00001      0x2c0             D:/GBA_development/BoulderDash/lib//krawall.lib
+g_SoMode4PolygonRasterizerBuffer
+                    0x4               D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+g_InterruptHandlers
+                    0x38              D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+_private_00005      0x4               D:/GBA_development/BoulderDash/lib//krawall.lib
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD D:/GBA_development/BoulderDash/build/intermediate/crt0.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+LOAD D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+LOAD D:/GBA_development/lib//libSocrates.a
+LOAD D:/GBA_development/BoulderDash/lib//krawall.lib
+LOAD D:/GBA_development/BoulderDash/modules//modules.lib
+LOAD /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a
+LOAD /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a
+LOAD /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a
+                0x08000000                __text_start=DEFINED(__gba_multiboot)?0x2000000:0x8000000
+                0x02040000                __eheap_end=0x2040000
+                0x03000000                __iwram_start=0x3000000
+                0x03007c00                __iheap_end=0x3007c00
+                0x03007f00                __sp_usr=0x3007f00
+                0x03007fa0                __sp_irq=0x3007fa0
+                0x03007ffc                __intr_vector_buf=0x3007ffc
+                0x00007f00                __sp_usr_offset=(__sp_usr-__iwram_start)
+                0x000000fc                __intr_vect_offset=(__intr_vector_buf-__sp_usr)
+
+.text           0x08000000     0xf2e4
+ EXCLUDE_FILE ( *text.iwram*)*(.text)
+ .text          0x08000000      0x200 D:/GBA_development/BoulderDash/build/intermediate/crt0.o
+                0x080000c4                __boot_method
+                0x08000180                __FarProcedure
+                0x080000c5                __slave_number
+                0x08000000                _start
+                0x080000e0                start_vector
+                0x08000180                __FarFunction
+ .text          0x08000200       0x28 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+                0x08000200                AgbMain
+ .text          0x08000228      0x1a8 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+                0x08000350                BdGameIntroInitialize
+                0x08000228                BdGameIntro
+ .text          0x080003d0      0x1d0 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+                0x08000508                BdCutSceneInitialize
+                0x080003d0                BdCutScene
+ .text          0x080005a0      0x164 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+                0x080005a0                BdGameEngine
+ .text          0x08000704      0xc2c D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+                0x08000dc0                BdBackgroundOptions
+                0x08001128                BdBackgroundnPutTile
+                0x080012a4                BdBackgroundLevelstartNumberPrint
+                0x08000d40                BdBackgroundLevelCode
+                0x08000fe4                BdBackgroundSbbPtr
+                0x080011a0                BdBackgroundPrint
+                0x08000f78                BdBackgroundClear
+                0x08000ea0                BdBackgroundFlipBufferView
+                0x08000ec4                BdBackgroundSetAll
+                0x08001204                BdBackgroundLevelstartPrint
+                0x08000bf8                BdBackgroundLoadGame
+                0x0800100c                BdBackgroundTileFromGraphic
+                0x08000f38                BdBackgroundSetScreen
+                0x080010ec                BdBackgroundPutTile
+                0x08000704                BdEnableBackground
+                0x08000b60                BdBackgroundUpdate
+                0x08000914                BdBackgroundLoadMainMenu
+                0x08001058                BdBackgroundFontPrint
+                0x08000820                BdInitBackground
+                0x08000a18                BdBackgroundLoadLevelStart
+                0x08000e40                BdBackgroundScrollSet
+                0x08000e64                BdBackgroundFlipBufferWrite
+                0x08000cc0                BdBackgroundLevelCodeNone
+ .text          0x08001330      0x108 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+                0x080013ec                BdVblankFrameCounterGet
+                0x080013cc                BdVblankWait
+                0x08001394                BdVblankHandler
+                0x08001414                BdVblankTimerMature
+                0x080013fc                BdVblankTimerSet
+                0x08001330                BdVblankInit
+ .text          0x08001438      0x3ec D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+                0x08001758                Scroll_Init
+                0x08001558                Scroll_Update
+                0x08001438                Scroll_Begin
+                0x080017ec                Scroll_GetX
+                0x08001808                Scroll_GetY
+                0x0800178c                Scroll_Render
+ .text          0x08001824      0x2b0 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+                0x080019a4                BdMusicFadeOut
+                0x08001824                BdMusicInit
+                0x08001900                BdMusicStop
+                0x08001980                BdMusicFadeIn
+                0x080019c8                BdMusicFadeDone
+                0x08001890                BdMusicPlay
+                0x0800195c                BdMusicUnPause
+                0x08001a34                BdMusicUpdate
+                0x08001934                BdMusicPause
+                0x08001a9c                BdMusicPlaySfx
+ .text          0x08001ad4      0x298 D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+                0x08001ad4                Stats_Render
+                0x08001c8c                Stats_DiamondGot
+                0x08001d3c                Stats_TimerMature
+                0x08001d14                Stats_DiamondGotEnough
+                0x08001c30                Stats_Begin
+                0x08001d24                Stats_TimerSet
+                0x08001c5c                Stats_Update
+                0x08001d04                Stats_DiamondRequiredSet
+                0x08001d58                Stats_TimerStart
+ .text          0x08001d6c      0x26c D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+                0x08001e2c                BdBlendClear
+                0x08001ea8                BdBlendRender
+                0x08001edc                BdBlendDone
+                0x08001e90                BdBlendInit
+                0x08001ef8                BdBlendTextIn
+                0x08001ed0                BdBlendGetPtr
+                0x08001d6c                BdBlendUpdate
+                0x08001f68                BdBlendTextOut
+ .text          0x08001fd8      0x6ac D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+                0x08002654                BdGameStateSet
+                0x080024e8                BdGameInit
+                0x08002570                BdGameRender
+                0x08001fd8                BdGameUpdate
+                0x08002664                BdGameStateGet
+                0x08002674                BdGameStateSetAfterWipe
+ .text          0x08002684      0x8d4 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+                0x08002910                vsprintf
+                0x08002ef0                dsprintf
+                0x08002f14                dstrnlen
+ .text          0x08002f58       0x54 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+                0x08002f58                BdRndInit
+                0x08002f7c                BdRnd
+                0x08002f6c                BdRndSeedSet
+ .text          0x08002fac     0x15a0 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+                0x080044f4                BdMenuLevelGet
+                0x08004458                BdMenuInit
+                0x0800453c                BdMenuStateSet
+                0x08004504                BdMenuLevelIncrement
+                0x08003db8                BdMenuRender
+                0x08002fac                BdMenuUpdate
+ .text          0x0800454c     0x155c D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+                0x080052bc                Man_Move
+                0x08005998                Man_Alive
+                0x080049cc                Man_Update1
+                0x0800454c                Man_Init
+                0x08005a54                Man_UpdateDoors
+                0x08005964                Man_GetY
+                0x08004624                Man_Begin
+                0x080058c4                Man_TileDraw
+                0x08005984                Man_Remove
+                0x080059b8                Man_Teleport
+                0x08005974                Man_Home
+                0x08004730                Man_Render
+                0x080059a8                Man_Born
+                0x08004fe4                Man_CanMove
+                0x08005954                Man_GetX
+                0x08004c0c                Man_Update2
+ .text          0x08005aa8      0x748 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+                0x08005ca8                BdGifLoad
+ .text          0x080061f0     0x1218 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+                0x08006fa8                Map_ProcessDWall
+                0x08006cf8                Map_Draw
+                0x080073c8                Map_TransitionBegin
+                0x08006ee8                Map_Update
+                0x08006c00                Map_DrawPrepare
+                0x08006510                Map_Process2
+                0x08007000                Map_TileExplode
+                0x08007394                Map_FlashWhite
+                0x080073b8                Map_FlashingWhite
+                0x0800630c                Map_Begin
+                0x08006eb8                Map_UpdateTimerClear
+                0x08006424                Map_Process1
+                0x08006890                Map_ProcessDrop
+                0x080061f0                Map_Init
+                0x08006a3c                Map_ProcessMove
+                0x08007340                Map_WorldGet
+                0x080072a8                Map_Render
+ .text          0x08007408      0x198 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+                0x08007408                SoDebugAssert
+                0x0800758c                SoDebugPrint
+ .text          0x080075a0      0x384 D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+                0x080078b0                SoDMA3Transfer
+                0x080075a0                SoDMAStop
+                0x08007754                SoDMA0Transfer
+                0x080077c8                SoDMA1Transfer
+                0x0800783c                SoDMA2Transfer
+                0x08007614                SoDMATransfer
+ .text          0x08007924      0x218 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+                0x08007a9c                SoBackgroundManagerSetBackgroundEnable
+                0x080079fc                SoBackgroundManagerSetMosaicEnable
+                0x08007924                SoBackgroundManagerSetMosaic
+ .text          0x08007b3c      0xbc8 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+                0x080081f8                SoMode4RendererDrawString
+                0x08007d9c                SoMode4RendererDrawImage
+                0x08007fe4                SoMode4RendererDrawCrossFadeImage
+                0x08007ba4                SoMode4RendererFlip
+                0x080086ec                SoMode4RendererClearFrontAndBackBuffer
+                0x0800858c                SoMode4RendererDrawNumber
+                0x08007b3c                SoMode4RendererEnable
+                0x08007bf4                SoMode4RendererGetBuffer
+                0x08007e80                SoMode4RendererDrawTransparentImage
+                0x08007c0c                SoMode4RendererDrawPixel
+ .text          0x08008704      0x158 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+                0x080087fc                SoIntManagerEnableInterrupt
+                0x08008704                SoIntManagerSetInterruptHandler
+                0x080087c4                SoIntManagerEnableInterruptMaster
+                0x080087e0                SoIntManagerDisableInterruptMaster
+                0x0800882c                SoIntManagerDisableInterrupt
+                0x08008734                SoIntManagerInitialize
+ .text          0x0800885c      0x5f8 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+                0x0800885c                SoMathFixedMultiply
+                0x08008aa0                SoMathRandSeed
+                0x08008a14                SoMathRand
+                0x08008914                SoMathFixedSqrt
+                0x08008b58                SoMathRandReloadMersenneTwister
+ .text          0x08008e54      0x9a8 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+                0x08008ff8                SoPaletteSetPalette
+                0x08008e54                SoPaletteSetColor
+                0x08008e90                SoPaletteSetBlack
+                0x080093b4                SoPaletteAddToPalette
+                0x08008ef0                SoPaletteSetGreyScale
+                0x08009060                SoPaletteFadeGreyScale
+                0x0800956c                SoPaletteSubtractFromPalette
+                0x080091e8                SoPaletteFadePalette
+                0x08009718                SoPaletteSetRandom
+ .text          0x080097fc      0x138 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+                0x080098a4                SoKeysPressed
+                0x080097fc                SoKeysUpdate
+                0x0800985c                SoKeysDown
+                0x080098ec                SoKeysReleased
+ .text          0x08009934     0x1ac8 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+                0x08009934                SoMode4PolygonRasterizerSetBuffer
+                0x08009b74                SoMode4PolygonRasterizerDrawTexturedPolygon
+                0x0800a9c0                SoMode4PolygonRasterizerDrawSolidPolygonFromEdgeTables
+                0x0800a0f4                SoMode4PolygonRasterizerDrawTexturedPolygonFromEdgeTables
+                0x08009954                SoMode4PolygonRasterizerSetTexture
+                0x08009b0c                SoMode4PolygonRasterizerInitialize
+                0x0800ac28                SoMode4PolygonRasterizerDrawSolidTriangleC
+                0x0800a674                SoMode4PolygonRasterizerDrawSolidPolygon
+ .text          0x0800b3fc       0x70 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+                0x0800b450                SoImageIsPalettized
+                0x0800b434                SoImageGetData
+                0x0800b3fc                SoImageGetWidth
+                0x0800b418                SoImageGetHeight
+ .text          0x0800b46c      0x2cc D:/GBA_development/lib//libSocrates.a(SoFont.o)
+                0x0800b46c                SoFontDefault
+                0x0800b724                SoFontGetDefaultFontImage
+ .text          0x0800b738      0x490 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+                0x0800bba0                SoSpriteManagerGetVerticalMosaic
+                0x0800b910                SoSpriteManagerEnableSprites
+                0x0800b738                SoSpriteManagerUpdate
+                0x0800b930                SoSpriteManagerDisableSprites
+                0x0800baa0                SoSpriteManagerSetMosaic
+                0x0800b884                SoSpriteManagerRelease
+                0x0800b760                SoSpriteManagerInitialize
+                0x0800bb78                SoSpriteManagerGetHorizontalMosaic
+                0x0800b954                SoSpriteManagerSetRotationAndScale
+                0x0800b814                SoSpriteManagerRequestSprite
+ .text          0x0800bbc8      0x7f8 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+                0x0800c298                SoWindow1OBJOutsideEnable
+                0x0800bdec                SoWindow0InsideEffectsEnable
+                0x0800c134                SoWindow0OutsideEffectsEnable
+                0x0800bd64                SoWindow0BG3InsideEnable
+                0x0800bec0                SoWindow1BG2InsideEnable
+                0x0800bc98                SoWindow0BG0InsideEnable
+                0x0800bf08                SoWindow1BG3InsideEnable
+                0x0800c1c0                SoWindow1BG1OutsideEnable
+                0x0800c068                SoWindow0BG2OutsideEnable
+                0x0800bc30                SoWindow1SetPosition
+                0x0800bcdc                SoWindow0BG1InsideEnable
+                0x0800c178                SoWindow1BG0OutsideEnable
+                0x0800bfe0                SoWindow0BG0OutsideEnable
+                0x0800c250                SoWindow1BG3OutsideEnable
+                0x0800c328                SoWindowSetWindow0Enable
+                0x0800bbc8                SoWindow0SetPosition
+                0x0800c208                SoWindow1BG2OutsideEnable
+                0x0800bda8                SoWindow0OBJInsideEnable
+                0x0800bf98                SoWindow1InsideEffectsEnable
+                0x0800be78                SoWindow1BG1InsideEnable
+                0x0800c0f0                SoWindow0OBJOutsideEnable
+                0x0800c024                SoWindow0BG1OutsideEnable
+                0x0800be30                SoWindow1BG0InsideEnable
+                0x0800c374                SoWindowSetWindow1Enable
+                0x0800c0ac                SoWindow0BG3OutsideEnable
+                0x0800bf50                SoWindow1OBJInsideEnable
+                0x0800bd20                SoWindow0BG2InsideEnable
+                0x0800c2e0                SoWindow1OutsideEffectsEnable
+ .text          0x0800c3c0       0xb8 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+                0x0800c3e0                SoDisplayGetVCounter
+                0x0800c440                SoDisplayWaitForVBlankStart
+                0x0800c400                SoDisplayIsInVBlank
+                0x0800c45c                SoDisplayWaitForVBlankEnd
+                0x0800c3c0                SoDisplayInitialize
+                0x0800c420                SoDisplayIsInHBlank
+ .text          0x0800c478      0xa78 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+                0x0800c6cc                SoSpriteSetMosaicEnable
+                0x0800cc28                SoSpriteSetSize
+                0x0800c880                SoSpriteGetWidth
+                0x0800c478                SoSpriteDisable
+                0x0800c680                SoSpriteSet256ColorMode
+                0x0800c718                SoSpriteSetRotationAndScaleEnable
+                0x0800c85c                SoSpriteFlipVertical
+                0x0800c4b0                SoSpriteSetTranslate
+                0x0800c65c                SoSpriteGetAnimationIndex
+                0x0800c7ec                SoSpriteSetSizeDoubleEnable
+                0x0800c764                SoSpriteSetRotationAndScaleIndex
+                0x0800c838                SoSpriteFlipHorizontal
+                0x0800c5d0                SoSpriteSetAnimationIndex
+                0x0800ca54                SoSpriteGetHeight
+                0x0800ce6c                SoSpriteCopyPropertiesFromAnimation
+ .text          0x0800cef0      0x128 D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+                0x0800cef0                SoSpriteAnimationGetSize
+                0x0800cf64                SoSpriteAnimationGetFrameHeight
+                0x0800cf48                SoSpriteAnimationGetFrameWidth
+                0x0800cf80                SoSpriteAnimationGetNumFrames
+                0x0800cf9c                SoSpriteAnimationIs16Colors
+                0x0800cfb8                SoSpriteAnimationGetData
+                0x0800cfd4                SoSpriteAnimationGetNumIndicesPerFrame
+ .text          0x0800d018       0x48 D:/GBA_development/lib//libSocrates.a(SoMode4RendererClear.o)
+                0x0800d018                SoMode4RendererClear
+ .text          0x0800d060      0x110 D:/GBA_development/lib//libSocrates.a(SoIntManagerIntHandler.o)
+                0x0800d060                SoIntManagerInterruptHandler
+ .text          0x0800d170     0x1ce4 D:/GBA_development/BoulderDash/lib//krawall.lib
+                0x0800e914                krapCallback
+                0x0800e98c                krapIsPaused
+                0x0800ee20                kramStopSTUB
+                0x0800e8c4                krapStop
+                0x0800d180                kradInterrupt
+                0x0800e954                krapUnpause
+                0x0800d2f0                _private_00002
+                0x0800ee28                kramSetVolSTUB
+                0x0800d170                kragInit
+                0x0800d398                kramQualityMode
+                0x0800d504                _private_00026
+                0x0800ee30                kramSetPosSTUB
+                0x0800d5c8                _private_00028
+                0x0800d620                _private_00023
+                0x0800ee2c                kramSetPanSTUB
+                0x0800ee0c                kramWorkerSTUB
+                0x0800d498                kramGetActiveChannels
+                0x0800d20c                _private_00004
+                0x0800ee10                kramPlaySTUB
+                0x0800dc20                krapPlay
+                0x0800e920                krapPause
+                0x0800d4f4                _private_00025
+                0x0800d32c                _private_00020
+                0x0800e9a4                krapSetMusicVol
+                0x0800ee24                kramSetFreqSTUB
+                0x0800d318                _private_00003
+                0x0800ee14                kramPlayExtSTUB
+                0x0800d560                _private_00022
+                0x0800d4c4                kramSetSFXVol
+                0x0800d4dc                _private_00024
+                0x0800d5f4                _private_00027
+ .text          0x0800ee54       0x7c /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_udivsi3.o)
+                0x0800ee54                __udivsi3
+ .text          0x0800eed0       0x94 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_divsi3.o)
+                0x0800eed0                __divsi3
+ .text          0x0800ef64       0xc8 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_umodsi3.o)
+                0x0800ef64                __umodsi3
+ .text          0x0800f02c       0xd8 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_modsi3.o)
+                0x0800f02c                __modsi3
+ .text          0x0800f104        0x4 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_dvmd_tls.o)
+                0x0800f104                __div0
+ .text          0x0800f108       0x3c /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/thumb/interwork/libgcc.a(_call_via_rX.o)
+                0x0800f110                _call_via_r2
+                0x0800f120                _call_via_r6
+                0x0800f11c                _call_via_r5
+                0x0800f114                _call_via_r3
+                0x0800f134                _call_via_fp
+                0x0800f128                _call_via_r8
+                0x0800f124                _call_via_r7
+                0x0800f108                _call_via_r0
+                0x0800f130                _call_via_sl
+                0x0800f13c                _call_via_sp
+                0x0800f12c                _call_via_r9
+                0x0800f118                _call_via_r4
+                0x0800f10c                _call_via_r1
+                0x0800f138                _call_via_ip
+                0x0800f140                _call_via_lr
+ .text          0x0800f144       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+                0x0800f144                bzero
+ .text          0x0800f164       0x64 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+                0x0800f164                memcpy
+ .text          0x0800f1c8       0x40 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+                0x0800f1c8                strlen
+ .text          0x0800f208       0x9c /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+                0x0800f208                strncmp
+ *(.text.*)
+ *(.stub)
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+ *(.glue_7)
+ *(.glue_7t)
+ .glue_7t       0x0800f2a4       0x40 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+                0x0800f2d8                ___private_00027_change_to_arm
+                0x0800f2b4                ___private_00023_from_thumb
+                0x0800f2e0                ___private_00028_change_to_arm
+                0x0800f2ac                ___private_00024_from_thumb
+                0x0800f2b8                ___private_00023_change_to_arm
+                0x0800f2c4                ___private_00026_from_thumb
+                0x0800f2a8                __SoMode4RendererClear_change_to_arm
+                0x0800f2dc                ___private_00028_from_thumb
+                0x0800f2a4                __SoMode4RendererClear_from_thumb
+                0x0800f2bc                ___private_00025_from_thumb
+                0x0800f2c8                ___private_00026_change_to_arm
+                0x0800f2cc                ___private_00022_from_thumb
+                0x0800f2d0                ___private_00022_change_to_arm
+                0x0800f2d4                ___private_00027_from_thumb
+                0x0800f2b0                ___private_00024_change_to_arm
+                0x0800f2c0                ___private_00025_change_to_arm
+                0x0800f2e4                .=ALIGN(0x4)
+                0x0800f2e4                __text_end=.
+
+.rodata         0x0800f2e4   0x45e50c
+ *(.rodata)
+ .rodata        0x0800f2e4       0x7c D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .rodata        0x0800f360       0x80 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .rodata        0x0800f3e0       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .rodata        0x0800f3f0     0xd5e8 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+                0x0800f3f0                mainmenu_gfx
+                0x0801b3b0                mainmenu_map
+                0x0801c7d8                mainmenu_pal
+ .rodata        0x0801c9d8    0x3d3e8 D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+                0x08040818                map_03
+                0x0804d0d8                pal_04
+                0x08059d98                pTileMapData
+                0x08034a18                gfx_03
+                0x08059dac                pTilePalData
+                0x08034818                pal_02
+                0x0804d2d8                gfx_05
+                0x08027f18                map_01
+                0x08041178                pal_03
+                0x08059d84                pTileGfxData
+                0x08059b78                pal_05
+                0x08041378                gfx_04
+                0x08033eb8                map_02
+                0x0804c778                map_04
+                0x08059d78                pTileGfxDataSize
+                0x08028878                pal_01
+                0x08028a78                gfx_02
+                0x08059218                map_05
+                0x0801c9d8                gfx_01
+ .rodata        0x08059dc0     0xaed4 D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+                0x0805a4b7                map0103
+                0x0805b996                map0109
+                0x0805f4c1                map0306
+                0x08061096                map0404
+                0x0805bd11                map0110
+                0x080636e0                map0505
+                0x0805a13b                map0102
+                0x0805d56c                map0207
+                0x0805e35b                map0301
+                0x08060d1b                map0403
+                0x0805f145                map0305
+                0x0805cafc                map0204
+                0x080644d3                map0509
+                0x0805ce76                map0205
+                0x08062c6c                map0502
+                0x0805b61c                map0108
+                0x08060625                map0401
+                0x080602ab                map0310
+                0x0805abad                map0105
+                0x0805edcb                map0304
+                0x08063ddb                map0507
+                0x0805af27                map0106
+                0x08062fe7                map0503
+                0x080621fb                map0409
+                0x08061b02                map0407
+                0x0805e6d7                map0302
+                0x08063366                map0504
+                0x080628ee                map0501
+                0x08064157                map0508
+                0x08061788                map0406
+                0x0805fbb7                map0308
+                0x0805dfe2                map0210
+                0x08059dc0                map0101
+                0x0805f83a                map0307
+                0x08063a5e                map0506
+                0x0805c781                map0203
+                0x0805d1f1                map0206
+                0x0805dc64                map0209
+                0x0805b2a1                map0107
+                0x08062574                map0410
+                0x0805a833                map0104
+                0x080609a0                map0402
+                0x08061e7e                map0408
+                0x0805c406                map0202
+                0x0805d8e8                map0208
+                0x0805ea52                map0303
+                0x08064bcc                pMapData
+                0x0806140f                map0405
+                0x0806484d                map0510
+                0x0805c08c                map0201
+                0x0805ff30                map0309
+ .rodata        0x08064c94    0x32d90 D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+                0x0808e374                level03_pal
+                0x08064c94                level00_gfx
+                0x080837e4                level02_map
+                0x080977dc                level04_pal
+                0x080972b4                level04_map
+                0x0806f07c                level00_pal
+                0x08083d0c                level02_pal
+                0x080798a4                level02_gfx
+                0x08097a10                pLevelPalData
+                0x080979dc                pLevelGfxDataSize
+                0x080979e8                pLevelGfxData
+                0x080979fc                pLevelMapData
+                0x0808e574                level04_gfx
+                0x0808de4c                level03_map
+                0x0806f27c                level01_gfx
+                0x0807917c                level01_map
+                0x08083f0c                level03_gfx
+                0x080796a4                level01_pal
+                0x0806eb54                level00_map
+ .rodata        0x08097a24    0x6da58 D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+                0x080b047d                cut0104
+                0x080fceb0                cut0404
+                0x080d066f                cut0301
+                0x080ec97f                cut0402
+                0x080c028b                cut0202
+                0x080f4a6c                cut0403
+                0x080a9b19                cut0103
+                0x080ddd73                cut0303
+                0x080e47cb                cut0401
+                0x08097a24                cut0101
+                0x080b6da8                cut0201
+                0x080a066a                cut0102
+                0x080d71f4                cut0302
+                0x080c8a2a                cut0203
+                0x081053c8                pCutSceneData
+ .rodata        0x0810547c   0x14f634 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+                0x081ef5e3                INTRO28
+                0x08214db5                INTRO33
+                0x0818460b                INTRO15A
+                0x081442cc                INTRO08
+                0x081febdf                INTRO30
+                0x0812417c                INTRO05
+                0x0813c07d                INTRO07B
+                0x081c7675                INTRO23
+                0x0811877d                INTRO04A
+                0x081a3c1f                INTRO18
+                0x081b7116                INTRO21
+                0x0810547c                INTRO01
+                0x0816c9fc                INTRO12B
+                0x08206135                INTRO31
+                0x081d636f                INTRO25
+                0x082317df                INTRO35A
+                0x0815d2e2                INTRO11
+                0x0822a8e5                INTRO34C
+                0x081df68d                INTRO26
+                0x081be8fd                INTRO22
+                0x08194427                INTRO16
+                0x08112152                INTRO03
+                0x0812c1a8                INTRO06
+                0x081e89b2                INTRO27
+                0x0817bf15                INTRO14
+                0x08165bfb                INTRO12A
+                0x0821c898                INTRO34A
+                0x0813415f                INTRO07A
+                0x0814c313                INTRO09
+                0x081aace3                INTRO19
+                0x0819bf5f                INTRO17
+                0x0817365d                INTRO13
+                0x081cd102                INTRO24
+                0x0823ed5d                INTRO36
+                0x0818c709                INTRO15B
+                0x082238b7                INTRO34B
+                0x0810bcfc                INTRO02
+                0x081f6d22                INTRO29
+                0x08246c0b                INTRO37
+                0x0820ee14                INTRO32
+                0x0811e3ff                INTRO04B
+                0x08154817                INTRO10
+                0x082549fc                pIntroData
+                0x081b112f                INTRO20
+                0x0824e0d7                INTRO38
+                0x08238253                INTRO35B
+ .rodata        0x08254ab0       0x1c D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .rodata        0x08254acc       0x28 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+                0x08254acc                musics
+ .rodata        0x08254af4        0x8 D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .rodata        0x08254afc       0x1c D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .rodata        0x08254b18       0x58 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .rodata        0x08254b70       0x14 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .rodata        0x08254b84       0x48 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .rodata        0x08254bcc       0x38 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .rodata        0x08254c04      0x184 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+                0x08254c04                Map_Graphic
+                0x08254d6c                nMapDirDeltaY
+                0x08254d5c                nMapDirDeltaX
+ .rodata        0x08254d88       0x30 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .rodata        0x08254db8       0x7c D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .rodata        0x08254e34       0xc4 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .rodata        0x08254ef8      0x264 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .rodata        0x0825515c       0x84 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .rodata        0x082551e0     0x5500 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+                0x082551e0                g_OneOver
+                0x0825a1e0                g_SineAndCosineTable
+                0x082591e0                g_Fade
+ .rodata        0x0825a6e0      0x138 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .rodata        0x0825a818     0x1cac D:/GBA_development/lib//libSocrates.a(SoFont.o)
+                0x0825c4b8                s_DefaultFontImage
+                0x0825acb6                s_DefaultFontImageData
+ .rodata        0x0825c4c4      0x180 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .rodata        0x0825c644       0xe0 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .rodata        0x0825c724      0x4f4 D:/GBA_development/BoulderDash/lib//krawall.lib
+                0x0825cb28                _private_00035
+                0x0825c9a8                _private_0003a
+                0x0825ca28                _private_0003d
+                0x0825c928                _private_0003c
+                0x0825caa8                _private_0003b
+ .rodata        0x0825cc18   0x210bd8 D:/GBA_development/BoulderDash/modules//modules.lib
+                0x0826e0dc                mod_l21
+                0x0826908c                mod_l11
+                0x08275c98                mod_l41
+                0x082723b4                mod_l31
+                0x0827e734                mod_l51
+                0x08283198                mod_outro
+                0x0827ea98                mod_logo
+                0x08263970                mod_intro
+                0x08282000                mod_menu
+                0x0846d5bc                samples
+ *all.rodata*(*)
+ *(.roda)
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+                0x0846d7f0                .=ALIGN(0x4)
+
+.ctors          0x0846d7f0        0x0
+ *crtbegin.o(.ctors)
+ EXCLUDE_FILE ( *crtend.o)*(.ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+                0x0846d7f0                .=ALIGN(0x4)
+                0x0846d7f0                laddr=(((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))
+
+.dtors          0x0846d7f0        0x0
+ *crtbegin.o(.dtors)
+ EXCLUDE_FILE ( *crtend.o)*(.dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+                0x0846d7f0                .=ALIGN(0x4)
+                0x0846d7f0                laddr=((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))
+
+.eh_frame       0x0846d7f0        0x0
+ *(.eh_frame)
+                0x0846d7f0                .=ALIGN(0x4)
+
+.gcc_except_table
+                0x0846d7f0        0x0
+ *(.gcc_except_table)
+                0x0846d7f0                .=ALIGN(0x4)
+                0x0846d7f0                __iwram_lma=((((((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))+SIZEOF(.eh_frame))+SIZEOF(.gcc_except_table))+0x3)&0xfffffffc)
+
+.iwram          0x03000000     0x230c load address 0x0846d7f0
+                0x03000000                __iwram_start=L(.)
+ *(.iwram)
+ .iwram         0x03000000       0x30 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+                0x03000000                BdRndIWRAM
+ .iwram         0x03000030     0x22dc D:/GBA_development/BoulderDash/lib//krawall.lib
+                0x03001558                _private_00040
+                0x03000fc8                _private_00030
+                0x030008d0                kramSetPan
+                0x0300106c                _private_00032
+                0x0300120c                _private_0002c
+                0x03000e24                kramSetFreq
+                0x03000df0                kramStop
+                0x03000bc8                kramPlayExt
+                0x03001894                kramWorker
+                0x03000f48                _private_0002e
+                0x030011e8                _private_00031
+                0x03000fe8                _private_0002b
+                0x03000e64                kramSetVol
+                0x03000ef8                kramSetPos
+                0x030009e0                kramPlay
+                0x0300155c                _private_0002a
+                0x03001104                _private_0002f
+                0x030012f4                _private_00033
+                0x030015a4                _private_0002d
+                0x03001554                _private_0003f
+                0x030013f8                _private_00029
+ *iwram.*(.text)
+                0x0300230c                .=ALIGN(0x4)
+                0x0846fafc                __data_lma=(((((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))+SIZEOF(.eh_frame))+SIZEOF(.gcc_except_table))+SIZEOF(.iwram))
+                0x0300230c                __iwram_end=.
+
+.bss            0x0300230c     0x3d34
+                0x0300230c                __bss_start=L(.)
+                0x0300230c                __bss_start__=L(.)
+ *(.dynbss)
+ *(.gnu.linkonce.b*)
+ *(COMMON)
+ *fill*         0x0300230c        0x4
+ COMMON         0x03002310       0xb0 D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+                                  0x0 (size before relaxing)
+                0x03002310                BdBackground
+ COMMON         0x030023c0       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+                                  0x0 (size before relaxing)
+                0x030023c0                Blend
+ COMMON         0x030023e0        0x4 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+                                  0x0 (size before relaxing)
+                0x030023e0                s_SoMode4RendererBackBuffer
+ *fill*         0x030023e4        0xc
+ COMMON         0x030023f0       0x38 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+                                  0x0 (size before relaxing)
+                0x030023f0                g_InterruptHandlers
+ COMMON         0x03002428        0x4 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+                                  0x0 (size before relaxing)
+                0x03002428                g_SoMode4PolygonRasterizerBuffer
+ *fill*         0x0300242c        0x4
+ COMMON         0x03002430      0x2c4 D:/GBA_development/BoulderDash/lib//krawall.lib
+                                  0x0 (size before relaxing)
+                0x03002430                _private_00001
+                0x030026f0                _private_00005
+                0x030026f4                .=ALIGN(0x4)
+ .bss           0x030026f4        0x4 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .bss           0x030026f8       0x1c D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .bss           0x03002714       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .bss           0x03002724       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .bss           0x03002744        0x4 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .bss           0x03002748       0x30 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .bss           0x03002778       0x38 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .bss           0x030027b0      0x9c0 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .bss           0x03003170      0x9c8 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .bss           0x03003b38      0xf18 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .bss           0x03004a50      0x484 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .bss           0x03004ed4     0x116c D:/GBA_development/BoulderDash/lib//krawall.lib
+                0x03006040                __bss_end=.
+                0x03006040                __bss_end__=.
+
+.data           0x03006040       0xd8 load address 0x0846fafc
+                0x03006040                __data_start=L(.)
+ *(.data)
+ .data          0x03006040        0x4 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .data          0x03006044        0x2 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ *fill*         0x03006046        0x2 255
+ .data          0x03006048       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .data          0x03006058        0x2 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ *fill*         0x0300605a        0x2 255
+ .data          0x0300605c        0xc D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .data          0x03006068       0x2c D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .data          0x03006094        0x1 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ *fill*         0x03006095        0x3 255
+ .data          0x03006098        0x4 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .data          0x0300609c        0x6 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ *fill*         0x030060a2        0x2 255
+ .data          0x030060a4        0x8 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+                0x030060a8                g_Cosine
+                0x030060a4                g_Sine
+ .data          0x030060ac        0x8 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .data          0x030060b4        0x8 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .data          0x030060bc        0x2 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+                0x030060bc                SO_REG_DISP_MOSAIC_RW
+ *fill*         0x030060be        0x2 255
+ .data          0x030060c0       0x58 D:/GBA_development/BoulderDash/lib//krawall.lib
+                0x03006108                _private_00038
+                0x03006110                _private_00037
+                0x0300610c                _private_00039
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __iwram_overlay_lma=((((((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))+SIZEOF(.eh_frame))+SIZEOF(.gcc_except_table))+SIZEOF(.iwram))+SIZEOF(.data))
+                0x03006118                __data_end=.
+                0x03006118                PROVIDE (edata, .)
+                0x03006118                __iwram_overlay_start=.
+
+.iwram0         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram0)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram0=LOADADDR(.iwram0)
+                0x0846fbd4                __load_stop_iwram0=(LOADADDR(.iwram0)+SIZEOF(.iwram0))
+
+.iwram1         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram1)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram1=LOADADDR(.iwram1)
+                0x0846fbd4                __load_stop_iwram1=(LOADADDR(.iwram1)+SIZEOF(.iwram1))
+
+.iwram2         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram2)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram2=LOADADDR(.iwram2)
+                0x0846fbd4                __load_stop_iwram2=(LOADADDR(.iwram2)+SIZEOF(.iwram2))
+
+.iwram3         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram3)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram3=LOADADDR(.iwram3)
+                0x0846fbd4                __load_stop_iwram3=(LOADADDR(.iwram3)+SIZEOF(.iwram3))
+
+.iwram4         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram4)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram4=LOADADDR(.iwram4)
+                0x0846fbd4                __load_stop_iwram4=(LOADADDR(.iwram4)+SIZEOF(.iwram4))
+
+.iwram5         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram5)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram5=LOADADDR(.iwram5)
+                0x0846fbd4                __load_stop_iwram5=(LOADADDR(.iwram5)+SIZEOF(.iwram5))
+
+.iwram6         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram6)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram6=LOADADDR(.iwram6)
+                0x0846fbd4                __load_stop_iwram6=(LOADADDR(.iwram6)+SIZEOF(.iwram6))
+
+.iwram7         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram7)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram7=LOADADDR(.iwram7)
+                0x0846fbd4                __load_stop_iwram7=(LOADADDR(.iwram7)+SIZEOF(.iwram7))
+
+.iwram8         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram8)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram8=LOADADDR(.iwram8)
+                0x0846fbd4                __load_stop_iwram8=(LOADADDR(.iwram8)+SIZEOF(.iwram8))
+
+.iwram9         0x03006118        0x0 load address 0x0846fbd4
+ *(.iwram9)
+                0x03006118                .=ALIGN(0x4)
+                0x0846fbd4                __load_start_iwram9=LOADADDR(.iwram9)
+                0x0846fbd4                __load_stop_iwram9=(LOADADDR(.iwram9)+SIZEOF(.iwram9))
+                0x03006118                .=(ADDR(.iwram0)+(((((((((SIZEOF(.iwram0)6SIZEOF(.iwram1))6SIZEOF(.iwram2))6SIZEOF(.iwram3))6SIZEOF(.iwram4))6SIZEOF(.iwram5))6SIZEOF(.iwram6))6SIZEOF(.iwram7))6SIZEOF(.iwram8))6SIZEOF(.iwram9)))
+                0x0846fbd4                __ewram_lma=((((((((((((((((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))+SIZEOF(.eh_frame))+SIZEOF(.gcc_except_table))+SIZEOF(.iwram))+SIZEOF(.data))+SIZEOF(.iwram0))+SIZEOF(.iwram1))+SIZEOF(.iwram2))+SIZEOF(.iwram3))+SIZEOF(.iwram4))+SIZEOF(.iwram5))+SIZEOF(.iwram6))+SIZEOF(.iwram7))+SIZEOF(.iwram8))+SIZEOF(.iwram9))
+                0x03006118                __iwram_overlay_end=.
+                0x03006118                __iheap_start=.
+                0x02000000                __ewram_start=DEFINED(__gba_multiboot)?__ewram_lma:0x2000000
+
+.ewram          0x02000000     0x6d68 load address 0x0846fbd4
+ *(.ewram)
+ .ewram         0x02000000       0x1e D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .ewram         0x0200001e      0x560 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .ewram         0x0200057e     0x6108 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+                0x0200067f                stack
+                0x02002682                prefix
+                0x02001680                suffix
+ .ewram         0x02006686      0x6e0 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+                0x02006686                uMap
+ *fill*         0x02006d66        0x2 255
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __ewram_overlay_lma=(((((((((((((((((((ADDR(.text)+SIZEOF(.text))+SIZEOF(.rodata))+SIZEOF(.ctors))+SIZEOF(.dtors))+SIZEOF(.eh_frame))+SIZEOF(.gcc_except_table))+SIZEOF(.iwram))+SIZEOF(.data))+SIZEOF(.iwram0))+SIZEOF(.iwram1))+SIZEOF(.iwram2))+SIZEOF(.iwram3))+SIZEOF(.iwram4))+SIZEOF(.iwram5))+SIZEOF(.iwram6))+SIZEOF(.iwram7))+SIZEOF(.iwram8))+SIZEOF(.iwram9))+SIZEOF(.ewram))
+                0x02006d68                __ewram_end=.
+                0x02006d68                __ewram_overlay_start=.
+
+.ewram0         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram0)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram0=LOADADDR(.ewram0)
+                0x0847693c                __load_stop_ewram0=(LOADADDR(.ewram0)+SIZEOF(.ewram0))
+
+.ewram1         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram1)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram1=LOADADDR(.ewram1)
+                0x0847693c                __load_stop_ewram1=(LOADADDR(.ewram1)+SIZEOF(.ewram1))
+
+.ewram2         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram2)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram2=LOADADDR(.ewram2)
+                0x0847693c                __load_stop_ewram2=(LOADADDR(.ewram2)+SIZEOF(.ewram2))
+
+.ewram3         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram3)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram3=LOADADDR(.ewram3)
+                0x0847693c                __load_stop_ewram3=(LOADADDR(.ewram3)+SIZEOF(.ewram3))
+
+.ewram4         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram4)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram4=LOADADDR(.ewram4)
+                0x0847693c                __load_stop_ewram4=(LOADADDR(.ewram4)+SIZEOF(.ewram4))
+
+.ewram5         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram5)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram5=LOADADDR(.ewram5)
+                0x0847693c                __load_stop_ewram5=(LOADADDR(.ewram5)+SIZEOF(.ewram5))
+
+.ewram6         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram6)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram6=LOADADDR(.ewram6)
+                0x0847693c                __load_stop_ewram6=(LOADADDR(.ewram6)+SIZEOF(.ewram6))
+
+.ewram7         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram7)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram7=LOADADDR(.ewram7)
+                0x0847693c                __load_stop_ewram7=(LOADADDR(.ewram7)+SIZEOF(.ewram7))
+
+.ewram8         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram8)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram8=LOADADDR(.ewram8)
+                0x0847693c                __load_stop_ewram8=(LOADADDR(.ewram8)+SIZEOF(.ewram8))
+
+.ewram9         0x02006d68        0x0 load address 0x0847693c
+ *(.ewram9)
+                0x02006d68                .=ALIGN(0x4)
+                0x0847693c                __load_start_ewram9=LOADADDR(.ewram9)
+                0x0847693c                __load_stop_ewram9=(LOADADDR(.ewram9)+SIZEOF(.ewram9))
+                0x02006d68                .=(ADDR(.ewram0)+(((((((((SIZEOF(.ewram0)6SIZEOF(.ewram1))6SIZEOF(.ewram2))6SIZEOF(.ewram3))6SIZEOF(.ewram4))6SIZEOF(.ewram5))6SIZEOF(.ewram6))6SIZEOF(.ewram7))6SIZEOF(.ewram8))6SIZEOF(.ewram9)))
+                0x02006d68                __ewram_overlay_end=.
+                0x02006d68                __eheap_start=.
+                0x02006d68                _end=DEFINED(__gba_iwram_heap)?__iheap_start:.
+                0x02006d68                __end__=_end
+                0x02006d68                PROVIDE (end, _end)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x4a8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_aranges
+                0x00000020       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_aranges
+                0x00000040       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_aranges
+                0x00000060       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_aranges
+                0x00000080       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_aranges
+                0x000000a0       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_aranges
+                0x000000c0       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_aranges
+                0x000000e0       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_aranges
+                0x00000100       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_aranges
+                0x00000120       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_aranges
+                0x00000140       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_aranges
+                0x00000160       0x20 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_aranges
+                0x00000180       0x28 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_aranges
+                0x000001a8       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_aranges
+                0x000001c8       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_aranges
+                0x000001e8       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_aranges
+                0x00000208       0x20 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_aranges
+                0x00000228       0x20 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_aranges
+                0x00000248       0x20 D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_aranges
+                0x00000268       0x20 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_aranges
+                0x00000288       0x20 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_aranges
+                0x000002a8       0x20 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_aranges
+                0x000002c8       0x20 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_aranges
+                0x000002e8       0x20 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_aranges
+                0x00000308       0x20 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_aranges
+                0x00000328       0x20 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_aranges
+                0x00000348       0x20 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_aranges
+                0x00000368       0x20 D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_aranges
+                0x00000388       0x20 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_aranges
+                0x000003a8       0x20 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_aranges
+                0x000003c8       0x20 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_aranges
+                0x000003e8       0x20 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_aranges
+                0x00000408       0x20 D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_aranges
+                0x00000428       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_aranges
+                0x00000448       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_aranges
+                0x00000468       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_aranges
+                0x00000488       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_pubnames
+                0x00000000     0x23f7
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x1e D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_pubnames
+                0x0000001e       0x3c D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_pubnames
+                0x0000005a       0x3a D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_pubnames
+                0x00000094       0x23 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_pubnames
+                0x000000b7      0x289 D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_pubnames
+                0x00000340       0x45 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+ .debug_pubnames
+                0x00000385       0xff D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+ .debug_pubnames
+                0x00000484      0x277 D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+ .debug_pubnames
+                0x000006fb       0x91 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_pubnames
+                0x0000078c      0x14e D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+ .debug_pubnames
+                0x000008da       0xcc D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+ .debug_pubnames
+                0x000009a6      0x24a D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+ .debug_pubnames
+                0x00000bf0       0x77 D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_pubnames
+                0x00000c67       0xcf D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_pubnames
+                0x00000d36       0xcf D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_pubnames
+                0x00000e05       0xa8 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_pubnames
+                0x00000ead       0x85 D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_pubnames
+                0x00000f32       0x39 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_pubnames
+                0x00000f6b       0x4a D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_pubnames
+                0x00000fb5       0x82 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_pubnames
+                0x00001037      0x100 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_pubnames
+                0x00001137       0x40 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_pubnames
+                0x00001177      0x187 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_pubnames
+                0x000012fe       0x35 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_pubnames
+                0x00001333       0x7e D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_pubnames
+                0x000013b1       0x85 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_pubnames
+                0x00001436      0x170 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_pubnames
+                0x000015a6       0xf7 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_pubnames
+                0x0000169d       0x84 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_pubnames
+                0x00001721       0xf6 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_pubnames
+                0x00001817       0x57 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_pubnames
+                0x0000186e       0x5c D:/GBA_development/lib//libSocrates.a(SoTables.o)
+ .debug_pubnames
+                0x000018ca      0x1b0 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_pubnames
+                0x00001a7a       0x66 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_pubnames
+                0x00001ae0       0x74 D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_pubnames
+                0x00001b54      0x159 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_pubnames
+                0x00001cad      0x352 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_pubnames
+                0x00001fff       0xcb D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_pubnames
+                0x000020ca      0x1b9 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_pubnames
+                0x00002283      0x100 D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_pubnames
+                0x00002383       0x1c /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_pubnames
+                0x0000239f       0x1d /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_pubnames
+                0x000023bc       0x1d /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_pubnames
+                0x000023d9       0x1e /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_info     0x00000000    0x252d9
+ *(.debug_info)
+ .debug_info    0x00000000      0x6e8 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_info    0x000006e8      0xb56 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_info    0x0000123e     0x1963 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_info    0x00002ba1     0x1217 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_info    0x00003db8     0x2ecd D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_info    0x00006c85      0x758 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+ .debug_info    0x000073dd      0x980 D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+ .debug_info    0x00007d5d      0x9ce D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+ .debug_info    0x0000872b      0xb4c D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_info    0x00009277      0x9c5 D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+ .debug_info    0x00009c3c      0x387 D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+ .debug_info    0x00009fc3      0x929 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+ .debug_info    0x0000a8ec     0x191b D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_info    0x0000c207      0xcc8 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_info    0x0000cecf     0x1d15 D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_info    0x0000ebe4      0xa92 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_info    0x0000f676     0x2289 D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_info    0x000118ff      0xe4c D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_info    0x0001274b      0x7df D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_info    0x00012f2a     0x369f D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_info    0x000165c9     0x2866 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_info    0x00018e2f     0x1530 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_info    0x0001a35f     0x2f51 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_info    0x0001d2b0      0x456 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_info    0x0001d706      0x3fa D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_info    0x0001db00      0x2aa D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_info    0x0001ddaa      0x85b D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_info    0x0001e605      0x4bb D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_info    0x0001eac0      0x3f0 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_info    0x0001eeb0      0x701 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_info    0x0001f5b1      0x287 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_info    0x0001f838      0x237 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+ .debug_info    0x0001fa6f      0xd34 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_info    0x000207a3      0x2c3 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_info    0x00020a66      0x5de D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_info    0x00021044      0x72d D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_info    0x00021771      0x92b D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_info    0x0002209c      0x271 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_info    0x0002230d      0x706 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_info    0x00022a13      0x404 D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_info    0x00022e17      0xb63 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_info    0x0002397a      0x230 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_info    0x00023baa      0xb86 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_info    0x00024730      0xba9 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_abbrev   0x00000000     0x28f9
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x93 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_abbrev  0x00000093       0xf8 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_abbrev  0x0000018b       0xff D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_abbrev  0x0000028a       0xce D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_abbrev  0x00000358      0x1aa D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_abbrev  0x00000502       0xa5 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+ .debug_abbrev  0x000005a7       0xa5 D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+ .debug_abbrev  0x0000064c       0x6c D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+ .debug_abbrev  0x000006b8      0x147 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_abbrev  0x000007ff       0xa5 D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+ .debug_abbrev  0x000008a4       0x6c D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+ .debug_abbrev  0x00000910       0x7d D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+ .debug_abbrev  0x0000098d       0xf8 D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_abbrev  0x00000a85      0x143 D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_abbrev  0x00000bc8      0x12c D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_abbrev  0x00000cf4       0xf5 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_abbrev  0x00000de9      0x13f D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_abbrev  0x00000f28      0x1f3 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_abbrev  0x0000111b      0x106 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_abbrev  0x00001221      0x20b D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_abbrev  0x0000142c      0x1d3 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_abbrev  0x000015ff      0x191 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_abbrev  0x00001790      0x1c9 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_abbrev  0x00001959       0x98 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_abbrev  0x000019f1       0x67 D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_abbrev  0x00001a58       0x63 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_abbrev  0x00001abb      0x147 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_abbrev  0x00001c02       0xc5 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_abbrev  0x00001cc7       0xcf D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_abbrev  0x00001d96       0xc9 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_abbrev  0x00001e5f       0x7a D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_abbrev  0x00001ed9       0x70 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+ .debug_abbrev  0x00001f49      0x106 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_abbrev  0x0000204f       0x80 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_abbrev  0x000020cf       0xdf D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_abbrev  0x000021ae      0x13c D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_abbrev  0x000022ea       0x78 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_abbrev  0x00002362       0x69 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_abbrev  0x000023cb       0xf7 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_abbrev  0x000024c2       0x8f D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_abbrev  0x00002551       0xfe /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_abbrev  0x0000264f       0x8c /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_abbrev  0x000026db      0x10f /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_abbrev  0x000027ea      0x10f /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_line     0x00000000     0xa640
+ *(.debug_line)
+ .debug_line    0x00000000      0x159 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_line    0x00000159      0x25b D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_line    0x000003b4      0x28a D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_line    0x0000063e      0x294 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_line    0x000008d2      0xc6b D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_line    0x0000153d      0x130 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+ .debug_line    0x0000166d      0x12f D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+ .debug_line    0x0000179c       0x59 D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+ .debug_line    0x000017f5      0x275 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_line    0x00001a6a      0x136 D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+ .debug_line    0x00001ba0       0x5e D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+ .debug_line    0x00001bfe       0x5f D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+ .debug_line    0x00001c5d      0x474 D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_line    0x000020d1      0x39c D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_line    0x0000246d      0x3df D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_line    0x0000284c      0x4a3 D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_line    0x00002cef      0x5ec D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_line    0x000032db      0x74b D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_line    0x00003a26      0x1f5 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_line    0x00003c1b      0xec1 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_line    0x00004adc     0x1096 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_line    0x00005b72      0xb22 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_line    0x00006694      0xe09 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_line    0x0000749d      0x182 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_line    0x0000761f      0x19a D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_line    0x000077b9      0x127 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_line    0x000078e0      0x4ad D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_line    0x00007d8d      0x18c D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_line    0x00007f19      0x21d D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_line    0x00008136      0x34a D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_line    0x00008480       0xeb D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_line    0x0000856b       0x75 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+ .debug_line    0x000085e0      0x981 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_line    0x00008f61       0xe1 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_line    0x00009042      0x18e D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_line    0x000091d0      0x278 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_line    0x00009448      0x4c5 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_line    0x0000990d      0x10e D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_line    0x00009a1b      0x4d2 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_line    0x00009eed      0x15d D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_line    0x0000a04a      0x132 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_line    0x0000a17c      0x19d /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_line    0x0000a319      0x165 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_line    0x0000a47e      0x1c2 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_frame    0x00000000     0x188c
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x34 D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o
+ .debug_frame   0x00000034       0x54 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o
+ .debug_frame   0x00000088       0x54 D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o
+ .debug_frame   0x000000dc       0x30 D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o
+ .debug_frame   0x0000010c      0x2a4 D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o
+ .debug_frame   0x000003b0       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o
+ .debug_frame   0x000003c0       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o
+ .debug_frame   0x000003d0       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o
+ .debug_frame   0x000003e0       0x94 D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o
+ .debug_frame   0x00000474       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o
+ .debug_frame   0x00000484       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o
+ .debug_frame   0x00000494       0x10 D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o
+ .debug_frame   0x000004a4       0xa4 D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o
+ .debug_frame   0x00000548      0x14c D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o
+ .debug_frame   0x00000694       0xcc D:/GBA_development/BoulderDash/build/intermediate/BdStats.o
+ .debug_frame   0x00000760       0xbc D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o
+ .debug_frame   0x0000081c       0xac D:/GBA_development/BoulderDash/build/intermediate/BdGame.o
+ .debug_frame   0x000008c8       0xb0 D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+ .debug_frame   0x00000978       0x50 D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o
+ .debug_frame   0x000009c8       0xb4 D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+ .debug_frame   0x00000a7c      0x208 D:/GBA_development/BoulderDash/build/intermediate/BdMan.o
+ .debug_frame   0x00000c84       0x64 D:/GBA_development/BoulderDash/build/intermediate/BdGif.o
+ .debug_frame   0x00000ce8      0x244 D:/GBA_development/BoulderDash/build/intermediate/BdMap.o
+ .debug_frame   0x00000f2c       0x30 D:/GBA_development/lib//libSocrates.a(SoDebug.o)
+ .debug_frame   0x00000f5c       0x70 D:/GBA_development/lib//libSocrates.a(SoDMA.o)
+ .debug_frame   0x00000fcc       0x40 D:/GBA_development/lib//libSocrates.a(SoBackgroundManager.o)
+ .debug_frame   0x0000100c       0xb0 D:/GBA_development/lib//libSocrates.a(SoMode4Renderer.o)
+ .debug_frame   0x000010bc       0x70 D:/GBA_development/lib//libSocrates.a(SoIntManager.o)
+ .debug_frame   0x0000112c       0x60 D:/GBA_development/lib//libSocrates.a(SoMath.o)
+ .debug_frame   0x0000118c       0xa0 D:/GBA_development/lib//libSocrates.a(SoPalette.o)
+ .debug_frame   0x0000122c       0x50 D:/GBA_development/lib//libSocrates.a(SoKeys.o)
+ .debug_frame   0x0000127c       0x10 D:/GBA_development/lib//libSocrates.a(SoTables.o)
+ .debug_frame   0x0000128c       0x90 D:/GBA_development/lib//libSocrates.a(SoMode4PolygonRasterizer.o)
+ .debug_frame   0x0000131c       0x50 D:/GBA_development/lib//libSocrates.a(SoImage.o)
+ .debug_frame   0x0000136c       0x30 D:/GBA_development/lib//libSocrates.a(SoFont.o)
+ .debug_frame   0x0000139c       0xb0 D:/GBA_development/lib//libSocrates.a(SoSpriteManager.o)
+ .debug_frame   0x0000144c      0x1d0 D:/GBA_development/lib//libSocrates.a(SoWindow.o)
+ .debug_frame   0x0000161c       0x70 D:/GBA_development/lib//libSocrates.a(SoDisplay.o)
+ .debug_frame   0x0000168c      0x100 D:/GBA_development/lib//libSocrates.a(SoSprite.o)
+ .debug_frame   0x0000178c       0x80 D:/GBA_development/lib//libSocrates.a(SoSpriteAnimation.o)
+ .debug_frame   0x0000180c       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(bzero.o)
+ .debug_frame   0x0000182c       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(memcpy.o)
+ .debug_frame   0x0000184c       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strlen.o)
+ .debug_frame   0x0000186c       0x20 /cygdrive/d/GBA/bin/../lib/gcc-lib/arm-agb-elf/3.0.2/../../../../arm-agb-elf/lib/thumb/interwork/libc.a(strncmp.o)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack=.
+ *(.stack)
+OUTPUT(D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.elf elf32-littlearm)

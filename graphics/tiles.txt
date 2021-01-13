@@ -1,0 +1,123 @@
+Tile lista 1.0
+Július 3.
+
+000	Föld
+001	Bizbasz a föld alatt
+002	Bizbasz a föld alatt
+003	Bizbasz a föld alatt
+004	Bizbasz a föld alatt
+005	Szikla, nem átjárható
+006	Piros ajtó
+007	Kék ajtó
+008	Sárga ajtó
+009	Szürke ajtó (kapcsolóra nyílik)
+010	Piros ajtó nyitva
+011	Kék ajtó nyitva
+012	Sárga ajtó nyitva
+013	Szürke ajtó nyitva
+014	Piros kulcs
+015	Kék kulcs
+016	Sárga kulcs
+017	Kapcsoló ki
+018	Kapcsoló be
+019	Bomba
+020	Bomba begyújtva 1.
+021	Bomba begyújtva 2.
+022	Bomba begyújtva 3.
+023	Bomba begyújtva 4.
+024	Bomba begyújtva 5.
+025	Bomba robban 1.
+026	Bomba robban 2.
+027	Bomba robban 3.
+028	Bomba robban 4.
+029	Boulder (sprite, transparent)
+030	Talaj (nem átjárható)
+031	Szikla, talaj
+032	Gyémánt 1.
+033	Gyémánt 2.
+034	Gyémánt 3.
+035	Gyémánt 4.
+036	Gyémánt 5.
+037	Gyémánt 6.
+038	Teleport 1.
+039	Teleport 2.
+040	Teleport 3.
+041	Teleport 4.
+042	Teleport 5.
+043	Teleport 6.
+044	Qbik áll / megy 1.
+045	Qbik megy 1.
+046	Qbik megy 1.
+047	Qbik megy 1.
+048	Qbik lefelé megy 1.
+049	Qbik lefelé megy 2.
+050	Qbik lefelé megy 4. (a 3. fázis azonos az 1.-vel)
+051	Qbik felfelé megy 1.
+052	Qbik felfelé megy 2.
+053	Qbik felfelé megy 4. (a 3. fázis azonos az 1.-vel)
+054	Qbik meghal, boulder 1.
+055	Qbik meghal, boulder 2.
+056	Qbik meghal, boulder 3.
+057	Qbik meghal, boulder 4.
+058	Qbik meghal 1.
+059	Qbik meghal 2.
+060	Qbik meghal 3.
+061	Qbik meghal 4.
+062	Qbik unatkozik 1.
+063	Qbik unatkozik 2.
+064	Qbik teleport 1.
+065	Qbik teleport 2.
+066	Qbik teleport 3.
+067	Qbik teleport 4.
+068	Követo monster áll
+069	Követo monster megy 1.
+070	Követo monster megy 2.
+071	Követo monster megy 3.
+072	Követo monster megy 4.
+073	Követo monster meghal, boulder 1.
+074	Követo monster meghal, boulder 2.
+075	Követo monster meghal, boulder 3.
+076	Követo monster meghal, boulder 4.
+077	Követo monster meghal 1.
+078	Követo monster meghal 2.
+079	Követo monster meghal 3.
+080	Követo monster meghal 4.
+081	Követo monster unatkozik 1.
+082	Követo monster unatkozik 2.
+083	Követo monster unatkozik 3.
+084	Követo monster unatkozik 4.
+085	Mászkálós monster áll
+086	Mászkálós monster megy 1.
+087	Mászkálós monster megy 2.
+088	Mászkálós monster megy 3.
+089	Mászkálós monster megy 4.
+090	Mászkálós monster meghal, boulder 1.
+091	Mászkálós monster meghal, boulder 2.
+092	Mászkálós monster meghal, boulder 3.
+093	Mászkálós monster meghal, boulder 4.
+094	Mászkálós monster meghal 1.
+095	Mászkálós monster meghal 2.
+096	Mászkálós monster meghal 3.
+097	Mászkálós monster meghal 4.
+098	Mászkálós monster unatkozik 1.
+099	Mászkálós monster unatkozik 2.
+100	Mászkálós monster unatkozik 3.
+101	Mászkálós monster unatkozik 4.
+102	Mászkálós monster unatkozik 5.
+103	Osztódós monster áll
+104	Osztódós monster megy 1.
+105	Osztódós monster megy 2.
+106	Osztódós monster megy 3.
+107	Osztódós monster megy 4.
+108	Osztódós monster meghal, boulder 1.
+109	Osztódós monster meghal, boulder 2.
+110	Osztódós monster meghal, boulder 3.
+111	Osztódós monster meghal, boulder 4.
+112	Osztódós monster meghal 1.
+113	Osztódós monster meghal 2.
+114	Osztódós monster meghal 3.
+115	Osztódós monster meghal 4.
+116	Osztódós monster osztódik 1.
+117	Osztódós monster osztódik 2.
+118	Osztódós monster osztódik 3.
+119	Osztódós monster osztódik 4.

@@ -1,0 +1,78 @@
+#ifndef BD_MENU_H
+#define BD_MENU_H
+
+#include "Socrates.h"
+
+enum
+{
+    MENU_FROLK_INIT,
+    MENU_FROLK_WAIT,
+    MENU_INTRO_INIT,
+    MENU_INTRO_WAIT,
+    MENU_INIT,
+    MENU_INFO_WAIT_1,
+    MENU_INFO_WAIT_2,
+    MENU_PRE_GAME_INIT,
+    MENU_PRE_GAME,
+    MENU_LEVEL_CODE_NONE_INIT,
+    MENU_LEVEL_CODE_NONE,
+    MENU_LEVEL_CODE_INIT,
+    MENU_LEVEL_CODE,
+    MENU_OPTIONS_INIT,
+    MENU_OPTIONS,
+    MENU_CUT_SCENE_INIT,
+    MENU_CUT_SCENE,
+    MENU_LEVEL_START_INIT,
+    MENU_LEVEL_START,
+    MENU_DORMANT_INIT,
+    MENU_DORMANT,
+    MENU_INGAME_INIT,
+    MENU_INGAME,
+    MENU_GAME_QUITTING,
+    MENU_GAME_COMPLETE
+};
+
+enum
+{
+    INGAME_MENU_RESTART,
+    INGAME_MENU_QUIT,
+    INGAME_MENU_CONTINUE,
+    INGAME_MENU_MAX
+};
+
+enum
+{
+    MAIN_MENU_NEW_GAME,
+    MAIN_MENU_LEVEL_CODE,
+    MAIN_MENU_REPLAY_INTRO,
+    MAIN_MENU_OPTIONS,
+    MAIN_MENU_MAX
+};
+
+enum
+{
+    LEVEL_MENU_CHRS1,
+    LEVEL_MENU_CHRS2,
+    LEVEL_MENU_PLAY,
+    LEVEL_MENU_RETURN,
+    LEVEL_MENU_MAX
+};
+
+enum
+{
+    OPTION_MENU_TIMER,
+    OPTION_MENU_BRIGHTNESS,
+    OPTION_MENU_MUSIC,
+    OPTION_MENU_SOUND_FX,
+    OPTION_MENU_RETURN,
+    OPTION_MENU_MAX
+};
+
+void    BdMenuInit(void);
+void    BdMenuUpdate(void);
+void    BdMenuRender(void);
+u32     BdMenuLevelGet(void);
+void    BdMenuLevelIncrement(void);
+void    BdMenuStateSet(u32 state);
+
+#endif /* BD_MENU_H */

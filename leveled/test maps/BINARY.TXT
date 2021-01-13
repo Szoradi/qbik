@@ -1,0 +1,66 @@
+0  // dirt
+1  // knick knack 1
+2  // knick knack 2
+3  // knick knack 3
+4  // knick knack 4
+5  // rock wall
+6  // magic wall
+7  // red door
+8  // blue door
+9  // yellow door
+10 // red key
+11 // blue key
+12 // yellow key
+13 // bomb
+14 // diamond
+15 // boulder
+16 // ground, dirt
+17 // ground, rock
+18 // tunnel
+19 // ground, disturbed
+20 // sky
+21 // stars 1
+22 // stars 2
+23 // stars 3
+24 // stars 4 - moon
+25 // stars 5
+26 // stars 6
+27 // stars 7
+28 // stars 8
+29 // stars 9
+30 // external wall
+31 // level start
+32 // monster 1
+33 // monster 2
+34 // monster 3
+35 // level exit
+36 // switch door A
+37 // switch door B
+38 // switch door C
+39 // switch door D
+40 // switch door E
+41 // switch door F
+42 // switch door G
+43 // switch door H
+44 // switch door I
+45 // switch door J
+46 // switch A
+47 // switch B
+48 // switch C
+49 // switch D
+50 // switch E
+51 // switch F
+52 // switch G
+53 // switch H
+54 // switch I
+55 // switch J
+56 // teleport start A
+57 // teleport start B
+58 // teleport start C
+59 // teleport start D
+60 // teleport start E
+61 // teleport start F
+62 // teleport start G
+63 // teleport start H
+64 // teleport start I
+65 // teleport start J

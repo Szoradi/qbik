@@ -1,0 +1,25 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sample - Win32 Release--------------------
+</h3>
+
+Making D:/GBA_development/BoulderDash/build/intermediate/crt0.o
+Making D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o
+Making D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o
+Linking object files
+gcc -mthumb -mthumb-interwork -mlong-calls -TD:/GBA_development/BoulderDash/build/lnkscript -nostartfiles -Wl,-Map=D:/GBA_development/BoulderDash/build/sux.map -oD:/GBA_development/BoulderDash/build/intermediate/BoulderDash.elf D:/GBA_development/BoulderDash/build/intermediate/crt0.o D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.o D:/GBA_development/BoulderDash/build/intermediate/BdGameIntro.o D:/GBA_development/BoulderDash/build/intermediate/BdCutScene.o D:/GBA_development/BoulderDash/build/intermediate/BdGameEngine.o D:/GBA_development/BoulderDash/build/intermediate/BdBackground.o D:/GBA_development/BoulderDash/build/intermediate/BdMenuData.o D:/GBA_development/BoulderDash/build/intermediate/BdGfxData.o D:/GBA_development/BoulderDash/build/intermediate/BdMapData.o D:/GBA_development/BoulderDash/build/intermediate/BdVblank.o D:/GBA_development/BoulderDash/build/intermediate/BdLevelStartData.o D:/GBA_development/BoulderDash/build/intermediate/BdCutSceneData.o D:/GBA_development/BoulderDash/build/intermediate/BdGameIntroData.o D:/GBA_development/BoulderDash/build/intermediate/BdScroll.o D:/GBA_development/BoulderDash/build/intermediate/BdMusic.o D:/GBA_development/BoulderDash/build/intermediate/BdStats.o D:/GBA_development/BoulderDash/build/intermediate/BdBlend.o D:/GBA_development/BoulderDash/build/intermediate/BdGame.o D:/GBA_development/BoulderDash/build/intermediate/dsprintf.o D:/GBA_development/BoulderDash/build/intermediate/BdRnd.o D:/GBA_development/BoulderDash/build/intermediate/BdMenu.o D:/GBA_development/BoulderDash/build/intermediate/BdMan.o D:/GBA_development/BoulderDash/build/intermediate/BdGif.o D:/GBA_development/BoulderDash/build/intermediate/BdMap.o  D:/GBA_development/lib//libSocrates.a D:/GBA_development/BoulderDash/lib//krawall.lib D:/GBA_development/BoulderDash/modules//modules.lib
+strip -g -S --strip-debug D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.elf
+Object copying
+copy from D:/GBA_development/BoulderDash/build/intermediate/BoulderDash.elf(elf32-littlearm) to D:/GBA_development/BoulderDash/BoulderDash.gba(binary)
+Done
+
+
+
+<h3>Results</h3>
+Sample.gba - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

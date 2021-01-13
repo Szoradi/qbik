@@ -1,0 +1,30 @@
+
+krawall.lib:     file format elf32-littlearm
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         00001c94  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .data         00000058  00000000  00000000  00001cc8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+  2 .bss          0000116c  00000000  00000000  00001d20  2**2
+                  ALLOC
+  3 .iwram        000022ec  00000000  00000000  00001d20  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, CODE
+  4 .rodata       000004f4  00000000  00000000  0000400c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
+
+krawall30.lib:     file format elf32-littlearm
+
+Sections:
+Idx Name          Size      VMA       LMA       File off  Algn
+  0 .text         00001c94  00000000  00000000  00000034  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, CODE
+  1 .data         00000058  00000000  00000000  00001cc8  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, DATA
+  2 .bss          0000116c  00000000  00000000  00001d20  2**2
+                  ALLOC
+  3 .iwram        0000342c  00000000  00000000  00001d20  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, CODE
+  4 .rodata       000004f4  00000000  00000000  0000514c  2**2
+                  CONTENTS, ALLOC, LOAD, RELOC, READONLY, DATA
